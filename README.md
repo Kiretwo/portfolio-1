@@ -5,7 +5,7 @@
 
 ## Description
 
-This is my first portfolio webpage. I chose 3 projects to display and i have written a little summary for each of them.
+This is my first portfolio webpage. I chose 3 projects to display and i have written a little summary for each of them. There is also a link to the github repo and live site (netlify) attached to each project.
 
 ## Built With
 
